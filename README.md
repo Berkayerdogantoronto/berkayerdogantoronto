@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkayerdogantoronto&label=Profile%20views&color=0e75b6&style=flat" alt="berkayerdogantoronto" /> </p>
 
-- 🔭 I’m currently working on **my portfolio and creating more data analysis and machine learning projects.**
+- 🔭 I’m currently working on **my portfolio and creating more data analysis and machine learning projects. Feel free to check my projects below.**
 
 - 🌱 I’m currently learning **Azure and Adobe Analytics.**
 
