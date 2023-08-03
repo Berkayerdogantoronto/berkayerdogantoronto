@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **any unique data analyst and machine learning projects.**
 
-- 🤝 I’m good at SQL, Power BI, DAX, Python, VBA, Tableau.
+- 🤝 I’m good at Microsoft Excel, VBA, SQL, Python, Power BI, DAX, Tableau, Hadoop.
 
 - 📫 How to reach me **berkayerdogantoronto@gmail.com**
 
