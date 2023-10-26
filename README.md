@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay Erdogan</h1>
-<h3 align="center">A passionate Big Data Enthusiast, Data Analyst, Business Data Analyst, and Market Data Analyst from Toronto, ON</h3>
+<h3 align="center">A passionate Big Data Enthusiast, Data Analyst, Junior Data Scientist from Toronto, ON</h3>
 <img align="right" alt="Coding" width="400" src="https://soyhorizonte.com/wp-content/uploads/2020/01/analitycs_giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkayerdogantoronto&label=Profile%20views&color=0e75b6&style=flat" alt="berkayerdogantoronto" /> </p>
