@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my portfolio and creating more data analysis and machine learning projects. Feel free to check my projects below.**
 
-- 🌱 I’m currently learning **Azure and Adobe Analytics.**
+- 🌱 I’m currently learning **Azure and Building ML Models.**
 
 - 👯 I’m looking to collaborate on **any unique data analysis and machine learning projects.**
 
