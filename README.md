@@ -12,7 +12,7 @@
 
 - 🤝 I’m good at Microsoft Excel, VBA, SQL, Python, Power BI, DAX, Tableau, Hadoop.
 
-- 📫 How to reach me **berkayerdogantoronto@gmail.com**
+- 📫 How to reach me **berkayeerdgn@gmail.com**
 
 - ⚡ Fun fact **Did you know that honey never spoils?**
 
