@@ -12,6 +12,9 @@
 
 ## Projects
 * https://github.com/Berkayerdogantoronto/TheFarmingFortuneTellerBerkay-s-PredictiveOptimization
+* https://github.com/Berkayerdogantoronto/FlightDelayPredictor
+* https://github.com/Berkayerdogantoronto/PowerBI-SalesReportKPI
+* https://github.com/Berkayerdogantoronto/House_PricesPrediction-Explained-step-by-step-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/berkayerdogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkayerdogan" height="30" width="40" /></a>
