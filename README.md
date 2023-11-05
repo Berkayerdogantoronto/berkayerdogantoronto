@@ -10,12 +10,12 @@
 
 - 👯 I’m looking to collaborate on **any unique data analysis and machine learning projects.**
 
-- 🤝 I’m good at Microsoft Excel, VBA, SQL, Python, Power BI, DAX, Tableau, Hadoop.
+- 🤝 I’m good at Microsoft Excel, VBA, SQL, Python, Power BI, DAX, Tableau, and Hadoop.
 
 - 📫 How to reach me **berkayeerdgn@gmail.com**
-
+  
 - ⚡ Fun fact **Did you know that honey never spoils?**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/berkayerdogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkayerdogan" height="30" width="40" /></a>
@@ -26,6 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayerdogantoronto&show_icons=true&locale=en&layout=compact" alt="berkayerdogantoronto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkayerdogantoronto&show_icons=true&locale=en" alt="berkayerdogantoronto" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkayerdogantoronto&" alt="berkayerdogantoronto" /></p>
