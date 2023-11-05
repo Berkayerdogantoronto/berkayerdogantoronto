@@ -11,10 +11,12 @@
 - 📫 How to reach me **berkayeerdgn@gmail.com**
 
 ## Projects
+Projects
 * [The Farming Fortune Teller: Berkay's Predictive Optimization](https://github.com/Berkayerdogantoronto/TheFarmingFortuneTellerBerkay-s-PredictiveOptimization)
-* https://github.com/Berkayerdogantoronto/FlightDelayPredictor
-* https://github.com/Berkayerdogantoronto/PowerBI-SalesReportKPI
-* https://github.com/Berkayerdogantoronto/House_PricesPrediction-Explained-step-by-step-
+* [Flight Delay Predictor](https://github.com/Berkayerdogantoronto/FlightDelayPredictor)
+* [Power BI Sales Report KPI](https://github.com/Berkayerdogantoronto/PowerBI-SalesReportKPI)
+* [House Prices Prediction - Explained Step by Step](https://github.com/Berkayerdogantoronto/House_PricesPrediction-Explained-step-by-step-)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/berkayerdogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkayerdogan" height="30" width="40" /></a>
