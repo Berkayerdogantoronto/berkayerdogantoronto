@@ -10,7 +10,7 @@
 - 🤝 I’m good at Microsoft Excel, VBA, SQL, Python, Power BI, DAX, Tableau, and Hadoop.
 - 📫 How to reach me **berkayeerdgn@gmail.com**
 
-## <font color="red">Projects</font>
+## <span style="color:red">Projects</span>
 * [**The Farming Fortune Teller: Berkay's Predictive Optimization**](https://github.com/Berkayerdogantoronto/TheFarmingFortuneTellerBerkay-s-PredictiveOptimization)
 * [**Exploratory Data Analysis Survey**](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis)
 * [**Flight Delay Predictor**](https://github.com/Berkayerdogantoronto/FlightDelayPredictor)
