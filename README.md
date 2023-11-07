@@ -11,7 +11,7 @@
 - 📫 How to reach me **berkayeerdgn@gmail.com**
 
 ## <font color="red">Projects</font>
-* [**The Farming Fortune Teller: Berkay's Predictive Optimization**](https://github.com/Berkayerdogantoronto/TheFarmingFortuneTellerBerkay-s-PredictiveOptimization)
+* [<span style="color: green;">**The Farming Fortune Teller: Berkay's Predictive Optimization**</span>](https://github.com/Berkayerdogantoronto/TheFarmingFortuneTellerBerkay-s-PredictiveOptimization)
 * [**Exploratory Data Analysis Survey**](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis)
 * [**Flight Delay Predictor**](https://github.com/Berkayerdogantoronto/FlightDelayPredictor)
 * [**Power BI-SQL Sales Report KPI**](https://github.com/Berkayerdogantoronto/PowerBI-SalesReportKPI)
