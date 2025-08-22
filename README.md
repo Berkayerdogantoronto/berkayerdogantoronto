@@ -6,9 +6,13 @@
 
 - 🔭 I’m currently **developing portfolio projects in data analysis, machine learning, forecasting, pricing, and business reporting, showcasing practical applications of SQL, Power BI, Python, and predictive modeling.**
 - 🌱 I’m currently learning to master my Machine Learning and Python skills.
-- 👀 I’m interested in data science topics, sci-fi, and economics.
+- 👀 I’m passionate about data science, exploring economic trends, and applying analytical thinking to complex problems, while enjoying creative outlets such as science fiction.
 - 🤝 I’m good at Microsoft Excel, VBA, SQL, Python, Power BI, DAX, Tableau, and Hadoop.
 - 📫 How to reach me **berkayeerdgn@gmail.com**
+
+
+  
+- Browse my portfolio projects showcasing data analysis, machine learning, and business reporting.
 
 ## <span style="color:red">Projects</span>
 * [**The Farming Fortune Teller: Berkay's Predictive Optimization**](https://github.com/Berkayerdogantoronto/TheFarmingFortuneTellerBerkay-s-PredictiveOptimization)
