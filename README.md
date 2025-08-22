@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Berkay Erdogan</h1>
-<h3 align="center">A passionate Big Data Enthusiast, Data Analyst, and Data Scientist from Toronto, ON</h3>
+<h3 align="center">Sales & Business Data Analyst | Pricing Optimization, Forecasting & Cross-Functional Reporting | Toronto, ON</h3>
 <img align="right" alt="Coding" width="400" src="https://soyhorizonte.com/wp-content/uploads/2020/01/analitycs_giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkayerdogantoronto&label=Profile%20views&color=0e75b6&style=flat" alt="berkayerdogantoronto" /> </p>
 
-- 🔭 I’m currently working on **my portfolio and creating more data analysis and machine learning projects. Feel free to check my projects below.**
+- 🔭 I’m currently working on **Developing portfolio projects in data analysis, machine learning, forecasting, pricing, and business reporting, showcasing practical applications of SQL, Power BI, Python, and predictive modeling.**
 - 🌱 I’m currently learning to master my Machine Learning and Python skills.
 - 👀 I’m interested in data science topics, sci-fi, and economics.
 - 🤝 I’m good at Microsoft Excel, VBA, SQL, Python, Power BI, DAX, Tableau, and Hadoop.
