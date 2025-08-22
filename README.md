@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkayerdogantoronto&label=Profile%20views&color=0e75b6&style=flat" alt="berkayerdogantoronto" /> </p>
 
-- 🔭 I’m currently working on **Developing portfolio projects in data analysis, machine learning, forecasting, pricing, and business reporting, showcasing practical applications of SQL, Power BI, Python, and predictive modeling.**
+- 🔭 I’m currently **developing portfolio projects in data analysis, machine learning, forecasting, pricing, and business reporting, showcasing practical applications of SQL, Power BI, Python, and predictive modeling.**
 - 🌱 I’m currently learning to master my Machine Learning and Python skills.
 - 👀 I’m interested in data science topics, sci-fi, and economics.
 - 🤝 I’m good at Microsoft Excel, VBA, SQL, Python, Power BI, DAX, Tableau, and Hadoop.
